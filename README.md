@@ -1,11 +1,11 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17778103)
 # :wave: The Basics of GitHub 
 
-NAME: (Juan Espindola)
+NAME: (Juan C Espindola)
 
 S#: (S01242098)
 
-## 🤓 Course overview and learning outcomes 
+## 🤓 Course overview and learning outcomes fgfgfg
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
